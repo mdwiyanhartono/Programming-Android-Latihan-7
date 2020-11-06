@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Latihan7</string>
+    <string name="Image">MainFoto</string>
+    <string name="lableNama">Nama</string>
+    <string name="titik2">:</string>
+    <string name="nama">M. Dwiyan Hartono</string>
+    <string name="lableNIM">NIM</string>
+    <string name="nim">3420160144</string>
+    <string name="HintET1">Masukan Panjang</string>
+    <string name="submit">Hitung</string>
+    <string name="text_button">Hitung</string>
+    <string name="label_tinggi">Masukan Panjang</string>
+    <string name="lable_lebar">Masukan Lebar</string>
+    <string name="hintet2">Masukan Lebar</string>
+    <string name="hintet3">Masukan Password</string>
+    <string name="Label1">Program Menghitung Persegi</string>
+    <string name="back">Back</string>
+    <string name="Hasil">Luas Segitiga</string>
+    <string name="lable_pass">Password</string>
+</resources>
